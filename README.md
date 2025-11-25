@@ -5,10 +5,12 @@
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-RL-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+## 🎯 The Mission
+**To use data and AI to help pharmacies and clinics predict which medicines might run out, so they can order in advance and make sure patients always find the medicines they need.**
+
 ## 📋 Project Overview
-**PharmaStock** is an intelligent inventory management system powered by Reinforcement Learning. The mission of the agent is to act as a **Pharmacy Manager**, making daily purchasing decisions to balance two conflicting objectives:
-1.  **Patient Safety:** Maintaining a 100% Service Level (Zero Stockouts).
-2.  **Cost Efficiency:** Minimizing holding costs and ordering fees.
+I am trying to solve the problem of **medicine stock-outs**. This project implements an AI Agent that acts as a Pharmacy Manager...
+[Rest of the README continues as before]
 
 This project implements and compares four distinct RL algorithms (**PPO, DQN, A2C, REINFORCE**) to solve the stochastic inventory control problem.
 
