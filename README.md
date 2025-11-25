@@ -10,7 +10,6 @@
 
 ## 📋 Project Overview
 I am trying to solve the problem of **medicine stock-outs**. This project implements an AI Agent that acts as a Pharmacy Manager...
-[Rest of the README continues as before]
 
 This project implements and compares four distinct RL algorithms (**PPO, DQN, A2C, REINFORCE**) to solve the stochastic inventory control problem.
 
