@@ -1,0 +1,6 @@
+{
+    "config_name": "config_03_low_lr",
+    "training_time_minutes": 3.2684722542762756,
+    "mean_reward": -1003.55,
+    "std_reward": 167.64045603612513
+}

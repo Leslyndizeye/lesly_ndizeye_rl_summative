@@ -1,0 +1,6 @@
+{
+    "config_name": "config_02_high_lr",
+    "training_time_minutes": 4.3033356467882795,
+    "mean_reward": -81.95,
+    "std_reward": 48.004400839923
+}

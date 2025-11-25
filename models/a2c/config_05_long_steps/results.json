@@ -1,0 +1,6 @@
+{
+    "config_name": "config_05_long_steps",
+    "training_time_minutes": 2.913592878977458,
+    "mean_reward": -38.15,
+    "std_reward": 35.356788598513866
+}

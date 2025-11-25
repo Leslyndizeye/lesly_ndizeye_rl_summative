@@ -1,0 +1,62 @@
+[
+    {
+        "config_name": "config_01_baseline",
+        "training_time_minutes": 4.450527922312419,
+        "mean_reward": -49.1,
+        "std_reward": 30.238055493037248
+    },
+    {
+        "config_name": "config_02_high_lr",
+        "training_time_minutes": 3.8174726366996765,
+        "mean_reward": -64.8,
+        "std_reward": 21.8954333138214
+    },
+    {
+        "config_name": "config_03_low_lr",
+        "training_time_minutes": 4.246985371907552,
+        "mean_reward": -44.4,
+        "std_reward": 40.67603717177965
+    },
+    {
+        "config_name": "config_04_high_gamma",
+        "training_time_minutes": 3.881810935338338,
+        "mean_reward": -42.1,
+        "std_reward": 52.294741609458214
+    },
+    {
+        "config_name": "config_05_large_batch",
+        "training_time_minutes": 2.295002802213033,
+        "mean_reward": -35.85,
+        "std_reward": 40.17527224549947
+    },
+    {
+        "config_name": "config_06_more_epochs",
+        "training_time_minutes": 8.36838241815567,
+        "mean_reward": -39.8,
+        "std_reward": 40.79227868114259
+    },
+    {
+        "config_name": "config_07_tight_clip",
+        "training_time_minutes": 2.9261818091074625,
+        "mean_reward": -59.7,
+        "std_reward": 46.53987537585377
+    },
+    {
+        "config_name": "config_08_entropy",
+        "training_time_minutes": 3.5827802220980325,
+        "mean_reward": -35.05,
+        "std_reward": 28.3173533367792
+    },
+    {
+        "config_name": "config_09_short_steps",
+        "training_time_minutes": 2.9729045073191327,
+        "mean_reward": -80.35,
+        "std_reward": 61.62874735056685
+    },
+    {
+        "config_name": "config_10_BEST",
+        "training_time_minutes": 45.17575542529424,
+        "mean_reward": -36.7,
+        "std_reward": 29.890801260588518
+    }
+]

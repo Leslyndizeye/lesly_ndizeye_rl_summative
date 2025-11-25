@@ -1,0 +1,6 @@
+{
+    "config_name": "config_04_high_gamma",
+    "training_time_minutes": 5.412998425960541,
+    "mean_reward": -120.0,
+    "std_reward": 94.1843936116807
+}

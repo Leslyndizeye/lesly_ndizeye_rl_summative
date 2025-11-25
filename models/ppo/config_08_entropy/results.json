@@ -1,0 +1,6 @@
+{
+    "config_name": "config_08_entropy",
+    "training_time_minutes": 3.5827802220980325,
+    "mean_reward": -35.05,
+    "std_reward": 28.3173533367792
+}

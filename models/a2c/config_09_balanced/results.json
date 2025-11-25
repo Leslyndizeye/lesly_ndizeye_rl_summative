@@ -1,0 +1,6 @@
+{
+    "config_name": "config_09_balanced",
+    "training_time_minutes": 3.554362956682841,
+    "mean_reward": -70.45,
+    "std_reward": 46.1565000839535
+}

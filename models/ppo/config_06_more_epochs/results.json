@@ -1,0 +1,6 @@
+{
+    "config_name": "config_06_more_epochs",
+    "training_time_minutes": 8.36838241815567,
+    "mean_reward": -39.8,
+    "std_reward": 40.79227868114259
+}

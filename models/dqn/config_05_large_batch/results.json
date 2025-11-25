@@ -1,0 +1,6 @@
+{
+    "config_name": "config_05_large_batch",
+    "training_time_minutes": 2.558593996365865,
+    "mean_reward": -230.6,
+    "std_reward": 73.69355467067659
+}

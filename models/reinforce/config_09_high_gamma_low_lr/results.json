@@ -1,0 +1,15 @@
+{
+    "config_name": "config_09_high_gamma_low_lr",
+    "config": {
+        "name": "config_09_high_gamma_low_lr",
+        "learning_rate": 0.0001,
+        "gamma": 0.995,
+        "num_episodes": 2000
+    },
+    "training_time_minutes": 1.8974046150843302,
+    "mean_reward": -239.25,
+    "std_reward": 63.792730777103436,
+    "mean_service_level": 0.9956635700012034,
+    "mean_stockouts": 0.5,
+    "best_training_reward": 17.0
+}

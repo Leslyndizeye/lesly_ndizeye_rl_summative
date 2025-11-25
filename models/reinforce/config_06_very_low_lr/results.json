@@ -1,0 +1,15 @@
+{
+    "config_name": "config_06_very_low_lr",
+    "config": {
+        "name": "config_06_very_low_lr",
+        "learning_rate": 5e-05,
+        "gamma": 0.99,
+        "num_episodes": 2000
+    },
+    "training_time_minutes": 1.902240240573883,
+    "mean_reward": -530.7,
+    "std_reward": 292.87063697134266,
+    "mean_service_level": 0.7824844750135954,
+    "mean_stockouts": 11.2,
+    "best_training_reward": -29.5
+}

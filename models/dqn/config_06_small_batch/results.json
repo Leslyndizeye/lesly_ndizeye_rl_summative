@@ -1,0 +1,6 @@
+{
+    "config_name": "config_06_small_batch",
+    "training_time_minutes": 3.0816530585289,
+    "mean_reward": -334.05,
+    "std_reward": 149.66921026049414
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "config_name": "config_01_baseline",
+        "training_time_minutes": 3.6743487397829693,
+        "mean_reward": -65.0,
+        "std_reward": 30.906310035330975
+    },
+    {
+        "config_name": "config_02_high_lr",
+        "training_time_minutes": 2.8229573170344033,
+        "mean_reward": -69.05,
+        "std_reward": 65.56655016088615
+    },
+    {
+        "config_name": "config_03_low_lr",
+        "training_time_minutes": 3.2684722542762756,
+        "mean_reward": -1003.55,
+        "std_reward": 167.64045603612513
+    },
+    {
+        "config_name": "config_04_high_gamma",
+        "training_time_minutes": 3.1291893561681112,
+        "mean_reward": -79.85,
+        "std_reward": 80.8959362390967
+    },
+    {
+        "config_name": "config_05_large_batch",
+        "training_time_minutes": 2.558593996365865,
+        "mean_reward": -230.6,
+        "std_reward": 73.69355467067659
+    },
+    {
+        "config_name": "config_06_small_batch",
+        "training_time_minutes": 3.0816530585289,
+        "mean_reward": -334.05,
+        "std_reward": 149.66921026049414
+    },
+    {
+        "config_name": "config_07_high_exploration",
+        "training_time_minutes": 2.4949228048324583,
+        "mean_reward": -139.4,
+        "std_reward": 74.9512508234519
+    },
+    {
+        "config_name": "config_08_large_buffer",
+        "training_time_minutes": 3.2544980088869733,
+        "mean_reward": -99.85,
+        "std_reward": 110.1297076178812
+    },
+    {
+        "config_name": "config_09_fast_target",
+        "training_time_minutes": 2.6703098813692727,
+        "mean_reward": -501.8,
+        "std_reward": 208.90885572421288
+    },
+    {
+        "config_name": "config_10_BEST",
+        "training_time_minutes": 33.962405820687614,
+        "mean_reward": -252.85,
+        "std_reward": 127.09170901360953
+    }
+]

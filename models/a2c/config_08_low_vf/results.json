@@ -1,0 +1,6 @@
+{
+    "config_name": "config_08_low_vf",
+    "training_time_minutes": 5.367299111684163,
+    "mean_reward": -78.55,
+    "std_reward": 63.14208184721185
+}

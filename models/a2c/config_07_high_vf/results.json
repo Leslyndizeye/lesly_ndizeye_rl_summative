@@ -1,0 +1,6 @@
+{
+    "config_name": "config_07_high_vf",
+    "training_time_minutes": 4.383879335721334,
+    "mean_reward": -178.5,
+    "std_reward": 118.35053865530143
+}

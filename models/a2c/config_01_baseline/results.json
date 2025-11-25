@@ -1,0 +1,6 @@
+{
+    "config_name": "config_01_baseline",
+    "training_time_minutes": 5.390079792340597,
+    "mean_reward": -179.0,
+    "std_reward": 58.65620171814742
+}

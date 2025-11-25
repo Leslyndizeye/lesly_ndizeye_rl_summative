@@ -1,0 +1,6 @@
+{
+    "config_name": "config_09_fast_target",
+    "training_time_minutes": 2.6703098813692727,
+    "mean_reward": -501.8,
+    "std_reward": 208.90885572421288
+}

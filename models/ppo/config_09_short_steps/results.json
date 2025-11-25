@@ -1,0 +1,6 @@
+{
+    "config_name": "config_09_short_steps",
+    "training_time_minutes": 2.9729045073191327,
+    "mean_reward": -80.35,
+    "std_reward": 61.62874735056685
+}

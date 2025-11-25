@@ -1,0 +1,15 @@
+{
+    "config_name": "config_07_moderate_lr",
+    "config": {
+        "name": "config_07_moderate_lr",
+        "learning_rate": 0.0002,
+        "gamma": 0.99,
+        "num_episodes": 2000
+    },
+    "training_time_minutes": 1.896029003461202,
+    "mean_reward": -80.75,
+    "std_reward": 43.7505714248397,
+    "mean_service_level": 0.975307957867615,
+    "mean_stockouts": 1.8,
+    "best_training_reward": -14.5
+}

@@ -1,0 +1,6 @@
+{
+    "config_name": "config_08_large_buffer",
+    "training_time_minutes": 3.2544980088869733,
+    "mean_reward": -99.85,
+    "std_reward": 110.1297076178812
+}

@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+training.log
+training_pid.txt
+
+# Model checkpoints (keep best models)
+models/*/checkpoint*
+models/*/*.zip.tmp
+
+# Tensorboard
+*/tensorboard/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python source archives
+*.tgz
+*.tar.gz
+Python-3.10.10/
+Python-3.10.10.tgz
