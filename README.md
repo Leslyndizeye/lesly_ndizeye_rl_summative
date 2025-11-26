@@ -5,10 +5,10 @@
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-RL-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 🎯 The Mission
+## My Mission
 **To use data and AI to help pharmacies and clinics predict which medicines might run out, so they can order in advance and make sure patients always find the medicines they need.**
 
-## 📋 Project Overview
+## Project Overview
 I am trying to solve the problem of **medicine stock-outs**. This project implements an AI Agent that acts as a Pharmacy Manager...
 
 This project implements and compares four distinct RL algorithms (**PPO, DQN, A2C, REINFORCE**) to solve the stochastic inventory control problem.
@@ -16,7 +16,7 @@ This project implements and compares four distinct RL algorithms (**PPO, DQN, A2
 ---
 ## Video Recording: https://www.loom.com/share/97ff9e5be91a449ba5df50849eb3f606
 
-## 🚀 Features
+## Features
 * **Custom Gymnasium Environment:** A verified simulation of supply chain logistics with lead times and uncertain demand.
 * **4 RL Algorithms:**
     * **PPO, DQN, A2C** (via Stable Baselines3).
