@@ -1,4 +1,4 @@
-# PharmaStock: Mission-Based Reinforcement Learning 🏥💊
+# PharmaStock: Mission-Based Reinforcement Learning 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-v2.0-orange)
