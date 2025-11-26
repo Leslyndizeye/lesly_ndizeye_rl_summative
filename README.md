@@ -27,7 +27,7 @@ This project implements and compares four distinct RL algorithms (**PPO, DQN, A2
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 lesly_ndizeye_rl_summative/
