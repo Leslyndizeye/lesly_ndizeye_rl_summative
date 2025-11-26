@@ -14,6 +14,7 @@ I am trying to solve the problem of **medicine stock-outs**. This project implem
 This project implements and compares four distinct RL algorithms (**PPO, DQN, A2C, REINFORCE**) to solve the stochastic inventory control problem.
 
 ---
+## Video Recording: https://www.loom.com/share/97ff9e5be91a449ba5df50849eb3f606
 
 ## 🚀 Features
 * **Custom Gymnasium Environment:** A verified simulation of supply chain logistics with lead times and uncertain demand.
